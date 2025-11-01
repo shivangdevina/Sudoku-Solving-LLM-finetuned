@@ -54,4 +54,3 @@ python dataset.py   # saves train.json / val.json under ./data
 ``` bash
 python finetune.py  # prompts for optional wandb key
 ```
-# Artifacts land in outputs/; final weights in mini-sudoku-solver/
