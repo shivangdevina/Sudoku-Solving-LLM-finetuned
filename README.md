@@ -1,4 +1,4 @@
-# 🧩 LLM-sudoku-solver  
+# LLM-sudoku-solver  
 Teach a small language model to crack 4×4 Sudoku puzzles with chain-of-thought reasoning.
 
 ---
